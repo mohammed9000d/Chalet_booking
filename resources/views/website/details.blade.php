@@ -26,6 +26,7 @@
 
     <div class="container mt-5">
         <div class="row slider-images">
+
             <div class="col-sm-12 m-auto">
                 <div id="slider3" class="carousel slide mb-5" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -33,7 +34,6 @@
                         <li data-target="#slider3" data-slide-to="1"></li>
                         <li data-target="#slider3" data-slide-to="2"></li>
                         <li data-target="#slider3" data-slide-to="3"></li>
-                        <li data-target="#slider3" data-slide-to="4"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
@@ -50,10 +50,6 @@
 
                         <div class="carousel-item">
                             <img class="d-block img-fluid" src="{{asset('chalets/website/dist/images/126288798_3474975179290762_481847176206897901_n.jpg')}}" alt="Four Slider">
-                        </div>
-
-                        <div class="carousel-item">
-                            <img class="d-block img-fluid" src="{{asset('chalets/website/dist/images/120134045_3320463314741950_3033146927499492343_n (1).jpg')}}" alt="Five Slider">
                         </div>
                     </div>
 
